@@ -1,6 +1,7 @@
-const king = 'King Balon the 6th';
+const eurosCount = 100;
 
-const numberOfCastles = 6;
-const roomsPerCastle = 17;
+const dollarsCount = eurosCount * 1.25;
+console.log(dollarsCount);
 
-console.log(king + ' has ' + numberOfCastles * roomsPerCastle + ' rooms.');
+const rublesCount = dollarsCount * 60;
+console.log(rublesCount);

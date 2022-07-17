@@ -1,6 +1,1 @@
-let family = 'Targaryen';
-let pet = 'Dragon';
-
-console.log(family);
-console.log('and');
-console.log(pet);
+console.log('- Did Joffrey agree?\n- He did. He also said "I love using \\n".');
