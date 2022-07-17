@@ -1,3 +1,3 @@
-console.log("Robert");
-console.log("Stannis");
-console.log("Renly");
+console.log('Robert');
+console.log('Stannis');
+console.log('Renly');
